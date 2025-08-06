@@ -1,1 +1,1 @@
-"testing webhook for jenkins"
+"testing webhook"
